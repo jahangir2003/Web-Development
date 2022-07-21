@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header_cont{
+    height: 30px; 
+    background: #9e5bba;
+    color: #fff;
+    font-size: 14px;
+    padding: 5px;
+}
+.header_right p{
+    display: inline-block;
+    border-right: 1px solid #fff;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.header_right a{
+    color: #fff;
+    text-decoration: none;
+}
+/* logo part start */
+.logo{
+height: 110px;
+padding: 25px;
+}
+.logo1{
+    border-right: 1px solid #ddd;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+/* logo part end */
+.sidebar_video h5{
+    background: green;
+    padding: 5px;
+    color: #fff;
+}
